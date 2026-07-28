@@ -12,8 +12,8 @@ Bilingual Junior Data Analyst with experience in data analysis, business intelli
 
 ## Contact Information
 
-LinkedIn  
-Outlook  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-001C4D?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-riverar)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-001C4D?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:cristianrivera.r@hotmail.com)
 
 # Selected Projects
 
@@ -25,7 +25,15 @@ This project evaluates RappiPlus, a subscription service within the Rappi ecosys
 
 ## Tools and Project Type
 
-Python · Pandas · SQL · Matplotlib · Seaborn · Cohort Analysis · A/B Testing · Funnel Analysis · Power BI
+![Python](https://img.shields.io/badge/Python-001C4D?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Cohort Analysis](https://img.shields.io/badge/Cohort_Analysis-6A5ACD?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-FF6F00?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Funnel Analysis](https://img.shields.io/badge/Funnel_Analysis-00897B?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## Key Questions
 
@@ -49,7 +57,7 @@ Performed statistical comparison between two checkout versions using hypothesis 
 
 ## Results Dashboard
 
-Image
+<img width="1077" height="285" alt="image" src="https://github.com/user-attachments/assets/a5eb5395-88d2-4bfa-8873-3c5ff8865cf6" />
 
 ## Conclusions and Recommendations
 
@@ -57,7 +65,7 @@ Image
 - The largest funnel drop-off (13.29%) occurs between "begin checkout" and "add payment info", indicating payment process friction rather than lack of user interest.
 - Checkout Version B showed a 0.60% higher conversion rate, but the difference was not statistically significant (p = 0.42). Extending the experiment before scaling the change is recommended.
 
-View complete project repository.
+**View complete project repository[repositorio completo](https://github.com/crisriverar/Analisis-RappiPlus).**
 
 ---
 
@@ -67,7 +75,14 @@ In e-commerce, understanding which customer behavior factors are associated with
 
 ## Tools and Project Type
 
-Jupyter Notebook · Python · Pandas · NumPy · Seaborn · Matplotlib · Correlation Analysis · EDA
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-001C4D?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Correlation Analysis](https://img.shields.io/badge/Correlation_Analysis-6A5ACD?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 
 ## Key Questions
 
@@ -91,7 +106,7 @@ Documented assumptions and limitations while translating analytical findings int
 
 ## Relationship Heatmap
 
-Image
+<img width="800" height="399" alt="image" src="https://github.com/user-attachments/assets/a96f556e-ee4f-48e8-8353-ace303bc9840" />
 
 ## Conclusions and Recommendations
 
@@ -105,7 +120,7 @@ Image
 - **Validate targeted advertising in a controlled environment:** Explore increasing targeted advertising spend through A/B testing or pilot campaigns before scaling investment.
 - **Reduce friction in the purchase process:** Prioritize navigation improvements and UX optimizations to convert traffic into purchases more effectively.
 
-View complete project repository.
+**View complete project repository[repositorio completo](https://github.com/crisriverar/NovaRetail).**
 
 ---
 
@@ -115,7 +130,13 @@ This project analyzes ConnectaTel's customer usage behavior, a telecommunication
 
 ## Tools and Project Type
 
-Python · Pandas · NumPy · Data Cleaning · Outlier Detection · Segmentation · Exploratory Data Analysis
+![Python](https://img.shields.io/badge/Python-001C4D?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-795548?style=for-the-badge&logo=databricks&logoColor=white)
+![Outlier Detection](https://img.shields.io/badge/Outlier_Detection-D32F2F?style=for-the-badge&logo=python&logoColor=white)
+![Segmentation](https://img.shields.io/badge/Segmentation-6A5ACD?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory_Data_Analysis-00897B?style=for-the-badge&logo=plotly&logoColor=white)
 
 ## Key Questions
 
@@ -143,4 +164,4 @@ Grouped customers based on age, country, and usage behavior.
 - The senior segment, although smaller, may represent a valuable opportunity due to potential financial stability and suitability for loyalty strategies.
 - Low usage levels observed among younger customers may be underestimated because mobile data consumption was not included, which is likely the dominant communication channel for this group.
 
-View complete project repository.
+**View complete project repository[repositorio completo](https://github.com/crisriverar/ConnectaTel).**
