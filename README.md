@@ -59,7 +59,7 @@ This project evaluates RappiPlus, a subscription service within the Rappi ecosys
 - The largest funnel drop-off (13.29%) occurs between "begin checkout" and "add payment info", indicating payment process friction rather than lack of user interest.
 - Checkout Version B showed a 0.60% higher conversion rate, but the difference was not statistically significant (p = 0.42). Extending the experiment before scaling the change is recommended.
 
-**View complete project repository[repositorio completo](https://github.com/crisriverar/Analisis-RappiPlus).**
+**View complete project repository[repositorio completo](https://github.com/crisriverar/Analisys-RappiPlus).**
 
 ---
 
@@ -109,7 +109,7 @@ Documented assumptions and limitations while translating analytical findings int
 - **Validate targeted advertising in a controlled environment:** Explore increasing targeted advertising spend through A/B testing or pilot campaigns before scaling investment.
 - **Reduce friction in the purchase process:** Prioritize navigation improvements and UX optimizations to convert traffic into purchases more effectively.
 
-**View complete project repository[repositorio completo](https://github.com/crisriverar/NovaRetail).**
+**View complete project repository[repositorio completo](https://github.com/crisriverar/Analisys-NovaRetail-).**
 
 ---
 
@@ -146,4 +146,4 @@ This project analyzes ConnectaTel's customer usage behavior, a telecommunication
 - The senior segment, although smaller, may represent a valuable opportunity due to potential financial stability and suitability for loyalty strategies.
 - Low usage levels observed among younger customers may be underestimated because mobile data consumption was not included, which is likely the dominant communication channel for this group.
 
-**View complete project repository[repositorio completo](https://github.com/crisriverar/ConnectaTel).**
+**View complete project repository[repositorio completo](https://github.com/crisriverar/Analisys-ConnectaTel).**
