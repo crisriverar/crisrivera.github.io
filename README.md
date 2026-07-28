@@ -27,14 +27,14 @@ This project evaluates RappiPlus, a subscription service within the Rappi ecosys
 ### Tools and Project Type
 
 ![Python](https://img.shields.io/badge/Python-001C4D?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Cohort Analysis](https://img.shields.io/badge/Cohort_Analysis-6A5ACD?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-FF6F00?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![Funnel Analysis](https://img.shields.io/badge/Funnel_Analysis-00897B?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-001C4D?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-001C4D?style=for-the-badge&logo=mysql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-001C4D?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-001C4D?style=for-the-badge&logo=python&logoColor=white)
+![Cohort Analysis](https://img.shields.io/badge/Cohort_Analysis-001C4D?style=for-the-badge)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-001C4D?style=for-the-badge)
+![Funnel Analysis](https://img.shields.io/badge/Funnel_Analysis-001C4D?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-001C4D?style=for-the-badge&logo=powerbi&logoColor=white)
 
 ### Key Questions
 
@@ -69,14 +69,14 @@ In e-commerce, understanding which customer behavior factors are associated with
 
 ### Tools and Project Type
 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-001C4D?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-001C4D?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Correlation Analysis](https://img.shields.io/badge/Correlation_Analysis-6A5ACD?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-001C4D?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-001C4D?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-001C4D?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-001C4D?style=for-the-badge&logo=plotly&logoColor=white)
+![Correlation Analysis](https://img.shields.io/badge/Correlation_Analysis-001C4D?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-001C4D?style=for-the-badge)
 
 ### Key Questions
 
@@ -120,12 +120,12 @@ This project analyzes ConnectaTel's customer usage behavior, a telecommunication
 ### Tools and Project Type
 
 ![Python](https://img.shields.io/badge/Python-001C4D?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-795548?style=for-the-badge&logo=databricks&logoColor=white)
-![Outlier Detection](https://img.shields.io/badge/Outlier_Detection-D32F2F?style=for-the-badge&logo=python&logoColor=white)
-![Segmentation](https://img.shields.io/badge/Segmentation-6A5ACD?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory_Data_Analysis-00897B?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-001C4D?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-001C4D?style=for-the-badge&logo=numpy&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-001C4D?style=for-the-badge)
+![Outlier Detection](https://img.shields.io/badge/Outlier_Detection-001C4D?style=for-the-badge)
+![Segmentation](https://img.shields.io/badge/Segmentation-001C4D?style=for-the-badge)
+![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory_Data_Analysis-001C4D?style=for-the-badge)
 
 ### Key Questions
 
