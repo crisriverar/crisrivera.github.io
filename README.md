@@ -47,9 +47,7 @@ This project evaluates RappiPlus, a subscription service within the Rappi ecosys
 - **Data Quality and KPIs:** Reviewed data quality across orders, product catalog, and marketing spend datasets.
 - **Funnel Analysis:** Calculated drop-off rates between funnel stages using user event and activity data.
 - **Cohort Retention Analysis:** Evaluated whether users return after registration.
-
-**A/B Testing:**  
-Performed statistical comparison between two checkout versions using hypothesis testing and p-value analysis.
+- **A/B Testing:** Performed statistical comparison between two checkout versions using hypothesis testing and p-value analysis.
 
 ### Results Dashboard
 
